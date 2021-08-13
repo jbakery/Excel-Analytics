@@ -7,5 +7,5 @@ The files are too large for a Github upload please use the links below to view t
 
 Excel file: https://docs.google.com/spreadsheets/d/1VKqVWw8-IVrc5j6_QqsEC_ViyJgltYK5/edit?usp=sharing&ouid=108888622758333969095&rtpof=true&sd=true
 
-Poer Point presentation: https://docs.google.com/presentation/d/1-1s1kd2BxIz0CFKxu-uXmxEbcnNp2OY0/edit?usp=sharing&ouid=108888622758333969095&rtpof=true&sd=true
+Power Point presentation: https://docs.google.com/presentation/d/1-1s1kd2BxIz0CFKxu-uXmxEbcnNp2OY0/edit?usp=sharing&ouid=108888622758333969095&rtpof=true&sd=true
 
