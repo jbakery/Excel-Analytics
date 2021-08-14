@@ -12,7 +12,7 @@ Power Point presentation: https://docs.google.com/presentation/d/1-1s1kd2BxIz0CF
 Lariat Data Analysis
 
 I analyzed the fleet of Lariat rent a car to determine rental trends and profitability. 
-I concluded that the customer needs to cosolidate there car models to acheive economies of scale. 
+I concluded that the customer needs to cosolidate their car models to acheive economies of scale. 
 
 Excel: https://docs.google.com/spreadsheets/d/1xXOAeZw2ALLprYugo6iWVVYQ1BFzSiC5/edit?usp=sharing&ouid=108888622758333969095&rtpof=true&sd=true
 
