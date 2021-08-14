@@ -9,3 +9,11 @@ Excel file: https://docs.google.com/spreadsheets/d/1VKqVWw8-IVrc5j6_QqsEC_ViyJgl
 
 Power Point presentation: https://docs.google.com/presentation/d/1-1s1kd2BxIz0CFKxu-uXmxEbcnNp2OY0/edit?usp=sharing&ouid=108888622758333969095&rtpof=true&sd=true
 
+Lariat Data Analysis
+
+I analyzed the fleet of Lariat rent a car to determine rental trends and profitability. 
+I concluded that the customer needs to cosolidate there car models to acheive economies of scale. 
+
+Excel: https://docs.google.com/spreadsheets/d/1xXOAeZw2ALLprYugo6iWVVYQ1BFzSiC5/edit?usp=sharing&ouid=108888622758333969095&rtpof=true&sd=true
+
+Power Point presentation: https://docs.google.com/presentation/d/1QjdUAoX_MfUlOFl6nCTkxgpEdG1LE3Jc/edit?usp=sharing&ouid=108888622758333969095&rtpof=true&sd=true
