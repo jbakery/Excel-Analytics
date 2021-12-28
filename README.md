@@ -1,4 +1,4 @@
-# Excel-Analytics
+# Excel-Portfolio
 This repository is an example of my abilities to tell stories with data in Microsoft Excel.
 The analysis is about diesel vs gasoline cars, the metrics chosen for comparison are miles per gallon, and 5 year fuel cost.
 The excel link contians all the data wrangled and excel methods for analyzing the data. 
